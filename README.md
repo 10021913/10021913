@@ -1,8 +1,1 @@
-- 👋 Hi, I’m Vignesh Saravanakumar
-- 👀 I’m interested in artificial intelligence and algorithms
-- 🌱 I’m currently learning path finding algorithsm
-
-<!---
-10021913/10021913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! My name is Vignesh Saravanakumar. I have been coding since I was 13 years old and have been passionate about it ever since. I have a repository of all my notes and a repository of Coursera courses I have completed with their certificates attached. I also have a repository of all the projects I have completed at school. I am particularly interested in algorithms, data structures, and artificial intelligence. I am always looking for new opportunities to learn and grow as a developer. Thank you for taking the time to visit my Github page.
